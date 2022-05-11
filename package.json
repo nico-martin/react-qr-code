@@ -1,6 +1,6 @@
 {
   "name": "@nico-martin/react-qr-code",
-  "version": "2.0.10",
+  "version": "2.0.11",
   "description": "A QR code generator for React and React Native.",
   "keywords": [
     "react",
@@ -27,7 +27,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/rosskhanas/react-qr-code.git"
+    "url": "git+ssh://git@github.com/nico-martin/react-qr-code.git"
   },
   "files": [
     "lib",
@@ -78,9 +78,9 @@
     "rimraf": "^3.0.2"
   },
   "bugs": {
-    "url": "https://github.com/rosskhanas/react-qr-code/issues"
+    "url": "https://github.com/nico-martin/react-qr-code/issues"
   },
-  "homepage": "https://github.com/rosskhanas/react-qr-code#readme",
+  "homepage": "https://github.com/nico-martin/react-qr-code#readme",
   "directories": {
     "test": "test"
   }
